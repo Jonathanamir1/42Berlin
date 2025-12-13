@@ -1,7 +1,7 @@
 ## VARIABLES
 
 # Name of the test runner executable
-NAME = tester
+NAME = testrunner.a
 
 
 

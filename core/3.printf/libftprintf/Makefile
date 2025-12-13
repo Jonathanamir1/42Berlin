@@ -7,7 +7,7 @@ LIBFT_DIR = libft
 LIBFT = $(LIBFT_DIR)/libft.a
 
 # Mandatory sources
-SRCS = //
+SRCS = ft_printf.c 
 
 OBJS = $(SRCS:.c=.o)
 
